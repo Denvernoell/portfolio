@@ -11,3 +11,5 @@ outputs:
 ---
 
 Civil Engineering EIT seeking a full-time position with a company that values process improvement and company culture, as well as being able to aid me through the process of becoming a PE.
+
+I write articles with hashnode at my blog [here](https://denvernoell.com/).
