@@ -1,0 +1,48 @@
+[
+    {
+        "grouping": "Course Work",
+        "skills": [
+            {
+                "name": "Hydraulics",
+                "icon": "https://cdn.icon-icons.com/icons2/2077/PNG/512/blood_droplet_health_healthcare_medic_medical_water_icon_127261.png"
+            },
+            {
+                "name": "Design of Steel Structures",
+                "icon": "https://iconarchive.com/show/ios7-icons-by-icons8/Industry-Water-icon.html"
+            },
+            {
+                "name": "Geotechnical Engineering Design",
+                "icon": "https://www.freepik.com/free-icon/drop-water_695183.htm#query=water&position=0&from_view=search"
+            },
+            {
+                "name": "Hydrology",
+                "icon": "<img src='https://image.freepik.com/free-icon/drop-water_318-9977.jpg'>"
+            },
+            { "name": "Environmental Quality Laboratory", "icon": "" },
+            { "name": "Construction Engineering", "icon": "" },
+            { "name": "Concrete Laboratory", "icon": "" }
+        ]
+    },
+    {
+        "grouping": "Languages, Operating Systems & Tools",
+        "skills": [
+            { "name": "Python", "icon": "" },
+            { "name": "pandas", "icon": "pandas" },
+            { "name": "github", "icon": "" },
+            { "name": "Excel", "icon": "" },
+            { "name": "QGIS", "icon": "" },
+            { "name": "vscode", "icon": "" },
+            { "name": "canva", "icon": "jeet-oritinal" }
+        ]
+    },
+
+    {
+        "grouping": "Hobbies",
+        "skills": [
+            { "name": "Cooking", "icon": "msql_server" },
+            { "name": "Yoga", "icon": "database" },
+            { "name": "Board Games", "icon": "database" },
+            { "name": "Pickleball", "icon": "python" }
+        ]
+    }
+]
