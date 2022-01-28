@@ -8,7 +8,10 @@
                 {{ if isset . "name" }}
                     {{ $devicon := cond (in $.Site.Data.devicons (lower .icon)) (lower .icon) (cond (in $.Site.Data.devicons (lower .name)) (lower .name) "terminal_badge") }}
                     <li class="list-inline-item">
-                      <i class="devicons devicons-{{ $devicon }}"></i>
+                      <!-- <i class="devicons devicons-{{ $devicon }}"></i> -->
+
+                      <i class="{{ if .icon }}fas fa-{{ .icon }}{{ else }}fab fa-{{ lower .name }}{{ end }}"></i>
+                      <!-- <i class="{{ if .icon}}fas fa-{{ .icon }}{{ else }}fab fa-{{ lower .name }}{{ end }} fa-stack-1x fa-inverse"></i> -->
                       {{if isset . "link"}}
                           <a href="{{.link}}">{{ .name }}</a>
                       {{ else }}

@@ -14,7 +14,7 @@ favicon = "/favicon.ico"
 firstName = "Denver"
 lastName = "Noell"
 phone = "1-559-731-2221"
-profileImage = "img/Boat.JPG"
+profileImage = "img/profile-pic_round_stripes.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
@@ -38,7 +38,8 @@ name = "GitHub"
 
 [[params.handles]]
 link = "https://denvernoell.com/"
-name = "GitHub"
+name = "Hashnode"
+icon = "pencil-alt"
 
 [outputs]
 home = ["HTML", "JSON"]
