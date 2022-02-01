@@ -18,7 +18,7 @@ profileImage = "img/profile-pic_round_stripes.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = false
+showProjects = true
 showPublications = false
 showQr = true
 showSkills = true
@@ -46,3 +46,6 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -12,7 +12,8 @@
           "Bash/Shell"
         ],
     "fact":" 700+ \"pulls\" from docker hub",
-    "featured":true
+    "featured":false,
+    "draft":true
 }
 
 

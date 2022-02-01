@@ -86,41 +86,6 @@
   </url>
   
   <url>
-    <loc>https://portfolio.denvernoell.com/tags/atlassian-ecosystem/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/bosh/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/projects/creations/bosh-agents/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/devops/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/java/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/monit/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/python/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://portfolio.denvernoell.com/tags/agile/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url>
@@ -137,6 +102,11 @@
   
   <url>
     <loc>https://portfolio.denvernoell.com/tags/culture/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://portfolio.denvernoell.com/tags/devops/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -176,23 +146,7 @@
   </url>
   
   <url>
-    <loc>https://portfolio.denvernoell.com/tags/atlassian-developer-ecosystem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
     <loc>https://portfolio.denvernoell.com/tags/bamboo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/bash/shell/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/bitbucket/</loc>
   </url>
   
   <url>
@@ -200,23 +154,11 @@
   </url>
   
   <url>
-    <loc>https://portfolio.denvernoell.com/tags/confluence/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/projects/creations/docker-marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/jira/</loc>
+    <loc>https://portfolio.denvernoell.com/tags/java/</loc>
   </url>
   
   <url>
     <loc>https://portfolio.denvernoell.com/tags/jquery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/maven/</loc>
   </url>
   
   <url>
@@ -225,11 +167,7 @@
   </url>
   
   <url>
-    <loc>https://portfolio.denvernoell.com/tags/spring/</loc>
-  </url>
-  
-  <url>
-    <loc>https://portfolio.denvernoell.com/tags/xml/xslt/</loc>
+    <loc>https://portfolio.denvernoell.com/projects/creations/akel_units/</loc>
   </url>
   
 </urlset>

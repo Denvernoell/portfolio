@@ -6,9 +6,22 @@
     </div>
   
     {{ $featuredPages := where .Pages "Params.featured" true }}
+
+    <!-- original -->
     {{ range $featuredPages }}
       {{ partial (printf "%s%s" .Section "Summary") . }}
     {{ end }}
+
+<!-- trial -->
+<!-- <ul class="list-inline list-social-icons mb-0">
+  {{ range $featuredPages }}
+  <li class="list-inline-item">
+    {{ partial (printf "%s%s" .Section "Summary") . }}
+  {{ end }}
+</li> -->
+
+
+
   </div>
   {{ if gt .Pages $featuredPages }}
     <div class="my-auto">
