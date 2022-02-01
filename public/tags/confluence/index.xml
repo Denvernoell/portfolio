@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confluence on Denver Noell</title>
-    <link>https://denvernoellportfolio.netlify.app/tags/confluence/</link>
+    <link>https://portfolio.denvernoell.com/tags/confluence/</link>
     <description>Recent content in Confluence on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://denvernoellportfolio.netlify.app/tags/confluence/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://portfolio.denvernoell.com/tags/confluence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atlassian Marketplace Plugins</title>
-      <link>https://denvernoellportfolio.netlify.app/projects/creations/marketplace/</link>
+      <link>https://portfolio.denvernoell.com/projects/creations/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/projects/creations/marketplace/</guid>
+      <guid>https://portfolio.denvernoell.com/projects/creations/marketplace/</guid>
       <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
     </item>
     

@@ -2,287 +2,287 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Denver Noell</title>
-    <link>https://denvernoellportfolio.netlify.app/tags/</link>
+    <link>https://portfolio.denvernoell.com/tags/</link>
     <description>Recent content in Tags on Denver Noell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate><atom:link href="https://denvernoellportfolio.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate><atom:link href="https://portfolio.denvernoell.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/docker/</link>
+      <link>https://portfolio.denvernoell.com/tags/docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/docker/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/javascript/</link>
+      <link>https://portfolio.denvernoell.com/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/javascript/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JSON</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/json/</link>
+      <link>https://portfolio.denvernoell.com/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/json/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node.js</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/node.js/</link>
+      <link>https://portfolio.denvernoell.com/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/node.js/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST APIs</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/rest-apis/</link>
+      <link>https://portfolio.denvernoell.com/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/rest-apis/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Ecosystem</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/atlassian-ecosystem/</link>
+      <link>https://portfolio.denvernoell.com/tags/atlassian-ecosystem/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/atlassian-ecosystem/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/atlassian-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOSH</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/bosh/</link>
+      <link>https://portfolio.denvernoell.com/tags/bosh/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/bosh/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/bosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/devops/</link>
+      <link>https://portfolio.denvernoell.com/tags/devops/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/devops/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/java/</link>
+      <link>https://portfolio.denvernoell.com/tags/java/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/java/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>monit</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/monit/</link>
+      <link>https://portfolio.denvernoell.com/tags/monit/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/monit/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/monit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/python/</link>
+      <link>https://portfolio.denvernoell.com/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/python/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agile</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/agile/</link>
+      <link>https://portfolio.denvernoell.com/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/agile/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/continuous-delivery/</link>
+      <link>https://portfolio.denvernoell.com/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/continuous-delivery/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/continuous-integration/</link>
+      <link>https://portfolio.denvernoell.com/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/continuous-integration/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/culture/</link>
+      <link>https://portfolio.denvernoell.com/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/culture/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/apache/</link>
+      <link>https://portfolio.denvernoell.com/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/apache/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/redirect/</link>
+      <link>https://portfolio.denvernoell.com/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/redirect/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/rewrite/</link>
+      <link>https://portfolio.denvernoell.com/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/rewrite/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/ssl/</link>
+      <link>https://portfolio.denvernoell.com/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/ssl/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/web-development/</link>
+      <link>https://portfolio.denvernoell.com/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/web-development/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Developer Ecosystem</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/atlassian-developer-ecosystem/</link>
+      <link>https://portfolio.denvernoell.com/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/atlassian-developer-ecosystem/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/atlassian-developer-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bamboo</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/bamboo/</link>
+      <link>https://portfolio.denvernoell.com/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/bamboo/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/bamboo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bash/shell</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/bash/shell/</link>
+      <link>https://portfolio.denvernoell.com/tags/bash/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/bash/shell/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/bash/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bitbucket</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/bitbucket/</link>
+      <link>https://portfolio.denvernoell.com/tags/bitbucket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/bitbucket/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/bitbucket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD pipelines</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/ci/cd-pipelines/</link>
+      <link>https://portfolio.denvernoell.com/tags/ci/cd-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/ci/cd-pipelines/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confluence</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/confluence/</link>
+      <link>https://portfolio.denvernoell.com/tags/confluence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/confluence/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/confluence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JIRA</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/jira/</link>
+      <link>https://portfolio.denvernoell.com/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/jira/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jQuery</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/jquery/</link>
+      <link>https://portfolio.denvernoell.com/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/jquery/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maven</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/maven/</link>
+      <link>https://portfolio.denvernoell.com/tags/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/maven/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/maven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/spring/</link>
+      <link>https://portfolio.denvernoell.com/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/spring/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xml/xslt</title>
-      <link>https://denvernoellportfolio.netlify.app/tags/xml/xslt/</link>
+      <link>https://portfolio.denvernoell.com/tags/xml/xslt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://denvernoellportfolio.netlify.app/tags/xml/xslt/</guid>
+      <guid>https://portfolio.denvernoell.com/tags/xml/xslt/</guid>
       <description></description>
     </item>
     

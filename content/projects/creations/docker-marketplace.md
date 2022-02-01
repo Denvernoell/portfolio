@@ -11,7 +11,8 @@
           "REST APIs",
           "Bash/Shell"
         ],
-    "fact":" 700+ \"pulls\" from docker hub"
+    "fact":" 700+ \"pulls\" from docker hub",
+    "featured":true
 }
 
 

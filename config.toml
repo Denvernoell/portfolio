@@ -1,5 +1,5 @@
 title = "Denver Noell"
-baseURL = "https://denvernoellportfolio.netlify.app/"
+baseURL = "https://portfolio.denvernoell.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
