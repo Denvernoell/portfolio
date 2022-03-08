@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Denver Noell | ssl</title>
-  <meta property="og:title" content="Denver Noell | ssl" />
+  <title>Denver Noell | Visualizing California Water Quality With Python</title>
+  <meta property="og:title" content="Denver Noell | Visualizing California Water Quality With Python" />
   <meta property="og:image" content="https://portfolio.denvernoell.com/img/profile-pic_round_stripes.png" />
-  <meta name="description" content="">
-  <meta property="og:description" content="" />
+  <meta name="description" content="Interactive Dissolved Oxygen Level Chart using Publically Available Data">
+  <meta property="og:description" content="Interactive Dissolved Oxygen Level Chart using Publically Available Data" />
   <meta name="author" content="Denver Noell">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -83,18 +83,73 @@
 
   <div class="container-fluid p-0">
     
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
 
-<section class="resume-section p-3 p-lg-5 d-flex d-column">
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://portfolio.denvernoell.com/">Home</a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://portfolio.denvernoell.com/publications/">Articles</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://portfolio.denvernoell.com/publications/cal/">Visualizing California Water Quality With Python</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column content">
   <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Visualizing California Water Quality With Python</span></h2>
+    <p><a href="https://denvernoell.com/visualizing-california-water-quality-with-python">Link to full Article</a></p>
+    <img src="https://denvernoell.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1645068191331%2F9d-bvuAGT.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&amp;w=3840&amp;q=75" style="max-height:300px;max-width:30%;" align="right"/>
+    <p><br><br><br>
+<br></p>
+<!-- <br><br><br> -->
+<h2 id="source-data">Source Data</h2>
+<p><a href="https://data.ca.gov/">California Open Data Portal</a> provides water quality data available <a href="https://data.ca.gov/dataset/water-quality-data">here</a>. This contains data ranging from 1968 to 2022 and has results for parameters such as dissolved oxygen and chemical levels. In this example, I will be looking at the Dissolved Oxygen Levels in California.</p>
+<h2 id="figure">Figure</h2>
+<p>The graphic below shows the monthly Dissolved Oxygen Level for each station. The stations within each county will share the same shape but have a different color.</p>
+<p>Notes</p>
+<ul>
+<li>Hovering over a point will show additional information for the point</li>
+<li>Clicking on a station in the legend will highlight points from that station</li>
+<li>Viewing in landscape mode on mobile devices is advised</li>
+</ul>
+<iframe src="https://datapane.com/u/denvernoell/reports/E7yq5g7/water/embed/" width="100%" height="800em" style="border: none;">IFrame not supported</iframe>
+<hr>
+<h2 id="python-modules-used">Python Modules Used</h2>
+<ul>
+<li><em><a href="https://pandas.pydata.org/">Pandas</a></em> to select a trimmed dataset from the original data</li>
+<li><em><a href="https://altair-viz.github.io/index.html">Altair</a></em> to create the visualization</li>
+<li><em><a href="https://datapane.com/">Datapane</a></em> to host the visualization</li>
+</ul>
+<h2 id="source-code">Source Code</h2>
+<p>Source code is available <a href="https://github.com/Denvernoell/California-Water-Quality">here</a>.</p>
 
-  Content tagged with  <span class="tag">ssl</span>
-    <ul>
-      
-          <li>
-             <a href="https://portfolio.denvernoell.com/blog/force-ssl/">Forcing Visits to use SSL</a>
-         </li>
-      
-    </ul>
+    <p class="mt-3">
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/engineering">Engineering</a></li>
+    
+      <li><a class="tag" href="/tags/python">Python</a></li>
+    
+</ul>
+
+    </p>
   </div>
 </section>
 

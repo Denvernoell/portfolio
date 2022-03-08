@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Visalia, CA"
-email = "Denvernoell@gmail.com"
+email = "Denver@denvernoell.com"
 favicon = "/favicon.ico"
 firstName = "Denver"
 lastName = "Noell"
@@ -19,7 +19,7 @@ showEducation = true
 showExperience = true
 showOpenSource = false
 showProjects = true
-showPublications = false
+showPublications = true
 showQr = true
 showSkills = true
 

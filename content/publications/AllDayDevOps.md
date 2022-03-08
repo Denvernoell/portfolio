@@ -11,6 +11,7 @@ fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
 sitemap:
   priority : 0.8
+draft: true
 ---
 
 
