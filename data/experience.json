@@ -1,9 +1,15 @@
 [
     {
         "role": "Assistant Engineer",
+        "company": "[Provost & Pritchard](https://provostandpritchard.com/)",
+        "summary": "- Conversion of Excel processes to Python while introducing version control with Git",
+        "range": "April 2022 - Current"
+    },
+    {
+        "role": "Intern",
         "company": "[Akel Engineering Group](https://www.akeleng.com/)",
         "summary": "- Developed python applications to streamline water model calibration process\n- Created Jupyter Notebooks to summarize system statistics for all InfoWater and InfoSewer Models\n- Automated monthly data import and analysis for multiple neighborhood's water usage using VBA\n- Assisted in the design of water, sewer, and storm infrastructure improvements to meet design criteria using various hydraulic modeling software programs\n- Created detailed reports using Microsoft Word and Microsoft Excel with an emphasis on formatting and visual appeal\n- Developed water, sewer, and storm master plans for over 10 California cities.",
-        "range": "December 2019 - Present"
+        "range": "December 2019 - April 2022"
     },
     {
         "role": "Intern",
