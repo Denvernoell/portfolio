@@ -10,6 +10,6 @@ outputs:
     - json
 ---
 
-Civil Engineering EIT seeking a full-time position with a company that values process improvement and company culture, as well as being able to aid me through the process of becoming a PE.
+Civil Engineering EIT that loves process improvement and doing cool things with data.
 
-I write articles with hashnode at my blog [here](https://denvernoell.com/).
+I try to write articles with hashnode at my blog [here](https://denvernoell.com/).

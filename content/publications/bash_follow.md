@@ -13,7 +13,9 @@ sitemap:
   priority : 0.8
 ---
 
-<
+<!-- https://learn.netlify.app/en/shortcodes/attachments/ -->
+<!-- {{%attachments title="Related files" pattern=".*\.(pdf|mp4)$"/%}} -->
+
 
 ## File
 Follow.exe is available [here](follow.exe).
